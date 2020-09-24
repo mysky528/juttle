@@ -30,7 +30,7 @@
     "fast-csv": "^1.0.0",
     "gex": "^0.1.4",
     "heap": "^0.2.3",
-    "isomorphic-fetch": "^2.2.0",
+    "isomorphic-fetch": "^3.0.0",
     "js-beautify": "^1.5.4",
     "log4js": "^0.6.28",
     "marked": "0.3.3",
